@@ -1,4 +1,4 @@
-Copyright (c) <2025> <ScriptsForDays>
-All rights reserved.
+Copyright (c) 2025 [ScriptsForDays] All rights reserved.
 
-This code may not be used, copied, modified, merged, published, distributed, sublicensed, or sold without explicit written permission from the copyright holder.
+This project and its contents may not be copied, modified, or distributed without explicit permission from the author.
+
